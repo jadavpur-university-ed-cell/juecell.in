@@ -13,7 +13,7 @@
       <link rel="stylesheet" type="text/css" href="assets/css/homestyle.css?nproached">
       <link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One|Bowlby+One+SC|Changa+One|Neuton|Titan+One|Archivo+Black|Scada|Changa+One|Anton" rel="stylesheet">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
-      <link href="https://fonts.googleacopis.com/css?family=Raleway" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Archivo+Narrow" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans" rel="stylesheet">
