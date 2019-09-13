@@ -146,13 +146,13 @@
          </div>
          <div class="cards">
             <div class="card card-1">
-               <div class="card-image"> <img class="upcoming-card-1-img" src="https://portal.juecell.in/assets/img/summit.png" alt="JU ESummit'18"></img> </div>
+               <div class="card-image"> <img class="upcoming-card-1-img" src="https://i.imgur.com/irwypkn.png" alt="EWeekend 3.0"></img> </div>
                <div class="card-body">
-                  <h2 style="text-align:center;color:black;font-family:'Roboto',seriff;font-weight:500">JU ESummit'18</h2>
-                  <p style="color:#666;font-family:'Raleway',sans-serif">Kolkata's first Entrepreneurship Summit at Jadavpur University</p>
+                  <h2 style="text-align:center;color:black;font-family:'Roboto',seriff;font-weight:500">EWeekend 3.0</h2>
+                  <p style="color:#666;font-family:'Raleway',sans-serif">Invoking a spirit of entrepreneurship among the new generation</p>
                   <p><strong style="color:black;font-size:16px">Where </strong>: Jadavpur University, Kolkata </p>
-                  <p><strong style="color:black;font-size:16px">When :</strong> 6-8th April , 2018 </p>
-                  <p style="text-align:center"><a target="_blank" href="esummit" class="btn btn-lg btn-primary detail-button">Know More</a></p>
+                  <p><strong style="color:black;font-size:16px">When </strong>: 20-22nd September , 2019 </p>
+                  <p style="text-align:center"><a target="_blank" href="https://eweekend.juecell.in/" class="btn btn-lg btn-primary detail-button">Know More</a></p>
                </div>
             </div>
             <div class="card">
@@ -160,9 +160,9 @@
                <div class="card-body">
                   <h2 style="text-align:center;color:black;font-family:" DINWebPro ", Helvetica, Arial, sans-serif;font-weight: 500">Hult Prize OnCampus</h2> 
                   <p style="color:#666;font-family:'Raleway',sans-serif">Leading the next generation of leaders.</p>
-                  <p><strong style="color:black;font-size:16px">Where </strong>: Jadavpur University TEQIP </p>
-                  <p><strong style="color:black;font-size:16px">When :</strong> 11th November , 2018 </p>
-                  <p style="text-align:center"><a target="_blank" href="http://hultprizeat.com/jadavpur" class="btn btn-lg btn-primary detail-button">Know More</a></p>
+                  <p><strong style="color:black;font-size:16px">Where </strong>: Jadavpur University </p>
+                  <p><strong style="color:black;font-size:16px">When </strong>: To Be Announced </p>
+                  <p style="text-align:center"><a target="_blank" href="http://www.hultprizeat.com/" class="btn btn-lg btn-primary detail-button">Know More</a></p>
                </div>
             </div>
          </div>
