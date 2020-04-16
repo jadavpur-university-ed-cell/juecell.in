@@ -79,10 +79,11 @@
                         </li>
                         <li> <a href="#ContactUs">Contact</a> </li>
                         <li> <a href="./alumni" target="_black">For Alumni</a> </li>
-                     </ul>
-                     <marquee width="60%" direction="left" height="100px">
+                        <marquee width="100%" direction="left" height="100px">
                      This is a sample scrolling text that has scrolls texts to left.
                      </marquee>
+                     </ul>
+                     
                   </nav>
                </div>
             </section>
