@@ -81,10 +81,11 @@
                         <li> <a href="./alumni" target="_black">For Alumni</a> </li>
                      </ul>
                   </nav>
-               </div>
-               <marquee width="100%" direction="left" height="100px">
+                  <marquee width="100%" direction="left" height="100px">
                      <a href="https://drive.google.com/file/d/1TsglaeUp1DS11lBvSmaLjaLAyq2MEjgH/view?usp=drivesdk">Calls for idea Submission to combat COVID-19</a>
                      </marquee>
+               </div>
+              
             </section>
             
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
