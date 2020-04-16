@@ -85,7 +85,14 @@
                      <a href="https://drive.google.com/file/d/1TsglaeUp1DS11lBvSmaLjaLAyq2MEjgH/view?usp=drivesdk">Calls for idea Submission to combat COVID-19</a>
                      </marquee>
                </div>
-              
+              <marquee width="100%" direction="left" style="
+                   background-color: white;
+                   border: 1px solid black;
+               ">
+                 <h5>
+                  <a href="https://drive.google.com/file/d/1TsglaeUp1DS11lBvSmaLjaLAyq2MEjgH/view?usp=drivesdk">Calls for idea Submission to combat COVID-19</a>
+                 </h5>
+               </marquee>
             </section>
             
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
