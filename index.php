@@ -79,14 +79,14 @@
                         </li>
                         <li> <a href="#ContactUs">Contact</a> </li>
                         <li> <a href="./alumni" target="_black">For Alumni</a> </li>
-                        <marquee width="100%" direction="left" height="100px">
-                     This is a sample scrolling text that has scrolls texts to left.
-                     </marquee>
                      </ul>
                      
                   </nav>
                </div>
             </section>
+            <marquee width="100%" direction="left" height="100px">
+                     <h2>This is a sample scrolling text that has scrolls texts to left.</h2>
+                     </marquee>
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
                <div class="carousel-inner">
                   <div class="item carousel-image-bg" id="topthree" style="background-image:url('assets/img/carousel/2.jpg');background-color:#5E5A5B"> </div>
