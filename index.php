@@ -81,9 +81,6 @@
                         <li> <a href="./alumni" target="_black">For Alumnis</a> </li>
                      </ul>
                   </nav>
-                  <marquee width="100%" direction="left" height="100px">
-                     <a href="https://drive.google.com/file/d/1TsglaeUp1DS11lBvSmaLjaLAyq2MEjgH/view?usp=drivesdk">Calls for idea Submission to combat COVID-19</a>
-                     </marquee>
                </div>
               <marquee width="100%" direction="left" style="
                    background-color: white;
