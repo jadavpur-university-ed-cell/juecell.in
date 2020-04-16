@@ -78,7 +78,7 @@
                            </ul>
                         </li>
                         <li> <a href="#ContactUs">Contact</a> </li>
-                        <li> <a href="./alumni" target="_black">For Alumni</a> </li>
+                        <li> <a href="./alumni" target="_black">For Alumnis</a> </li>
                      </ul>
                   </nav>
                   <marquee width="100%" direction="left" height="100px">
