@@ -80,10 +80,10 @@
                         <li> <a href="#ContactUs">Contact</a> </li>
                         <li> <a href="./alumni" target="_black">For Alumni</a> </li>
                      </ul>
-                     <marquee width="100%" direction="left" height="100px">
+                  </nav>
+                  <marquee width="100%" direction="left" height="100px">
                      <h2>This is a sample scrolling text that has scrolls texts to left.</h2>
                      </marquee>
-                  </nav>
                </div>
             </section>
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
